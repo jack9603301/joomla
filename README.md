@@ -1,2 +1,2 @@
 # joomla
-joomla.org
+http://joomla.org
